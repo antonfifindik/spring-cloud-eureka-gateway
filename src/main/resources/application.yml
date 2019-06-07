@@ -1,0 +1,9 @@
+
+spring:
+  application:
+    name: gateway
+
+server:
+  port: 8777
+  servlet:
+    context-path: /gateway
